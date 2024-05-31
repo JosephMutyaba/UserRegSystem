@@ -1,7 +1,6 @@
-package model;
+package main.java.com.userregistration.model;
 
 import java.util.Date;
-import java.util.Objects;
 
 public class User {
     // attributes
